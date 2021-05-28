@@ -31,6 +31,8 @@
 *.out
 *.app
 
+# Build products
+Makefile
 CMakeFiles/
 *.cmake
 *.txt
